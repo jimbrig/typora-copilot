@@ -12,9 +12,9 @@ This plugin uses the LSP server extracted from Copilot.vim to provide suggestion
 
 > [!NOTE]
 >
-> Since Typora v1.10, all platforms require [Node.js](https://nodejs.org/en/download) ≥ 18 to use this plugin.
+> Since Typora v1.10, all platforms require [Node.js](https://nodejs.org/en/download) ≥ 20 to use this plugin.
 >
-> (For those special users on Windows / Linux using 1.6 ≤ Typora < 1.10, no need for Node.js to be installed. :wink:)
+> (For those special users on Windows / Linux using Typora 1.9, no need for Node.js to be installed. :wink:)
 
 _\*Note: `/` means not tested._
 
